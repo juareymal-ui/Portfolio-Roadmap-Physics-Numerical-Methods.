@@ -1,11 +1,11 @@
-# 🔬 Physics Numerical Methods
+#  Physics Numerical Methods
 
 [![C++17](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Implementaciones en C++ de métodos numéricos para resolver problemas físicos.
 
-## 📦 Instalación Rápida
+##  Instalación Rápida
 
 ```bash
 git clone https://github.com/juareymal-ui/Physics_Numerical_Methods.git
@@ -15,7 +15,7 @@ cmake ..
 make
 ```
 
-## 🚀 Uso Rápido
+##  Uso Rápido
 
 ```bash
 # Ejecutar simulación de péndulo
@@ -25,10 +25,10 @@ make
 ./bin/harmonic_oscillator
 ```
 
-## 📚 Documentación
+##  Documentación
 
 Ver [docs/theory.md](docs/theory.md) para teoría detallada.
 
-## 👤 Autor
+##  Autor
 
 **Juan Maldonado** - [GitHub](https://github.com/juareymal-ui)

@@ -95,7 +95,7 @@ void test_gauss_quadrature() {
     // Integrar sin(x) de 0 a π (resultado = 2)
     auto f = [](double x) { return std::sin(x); };
     
-    double result = numerical::gauss_quadrature(f, 0.0, M_PI);
+    double result = numerical::gauss_quadrature(f, 0.0, std::acos(-1.0));
     double exact = 2.0;
     double error = std::abs(result - exact);
     

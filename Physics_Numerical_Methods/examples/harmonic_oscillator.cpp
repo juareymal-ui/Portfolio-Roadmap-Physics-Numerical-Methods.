@@ -1,3 +1,4 @@
+#define _USE_MATH_DEFINES
 #include "physics_simulations.h"
 #include <iostream>
 #include <cmath>
